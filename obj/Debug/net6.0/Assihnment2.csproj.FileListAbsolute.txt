@@ -1,0 +1,15 @@
+E:\Promact\c#\Assihnment2\bin\Debug\net6.0\Assihnment2.exe
+E:\Promact\c#\Assihnment2\bin\Debug\net6.0\Assihnment2.deps.json
+E:\Promact\c#\Assihnment2\bin\Debug\net6.0\Assihnment2.runtimeconfig.json
+E:\Promact\c#\Assihnment2\bin\Debug\net6.0\Assihnment2.dll
+E:\Promact\c#\Assihnment2\bin\Debug\net6.0\Assihnment2.pdb
+E:\Promact\c#\Assihnment2\obj\Debug\net6.0\Assihnment2.csproj.AssemblyReference.cache
+E:\Promact\c#\Assihnment2\obj\Debug\net6.0\Assihnment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Promact\c#\Assihnment2\obj\Debug\net6.0\Assihnment2.AssemblyInfoInputs.cache
+E:\Promact\c#\Assihnment2\obj\Debug\net6.0\Assihnment2.AssemblyInfo.cs
+E:\Promact\c#\Assihnment2\obj\Debug\net6.0\Assihnment2.csproj.CoreCompileInputs.cache
+E:\Promact\c#\Assihnment2\obj\Debug\net6.0\Assihnment2.dll
+E:\Promact\c#\Assihnment2\obj\Debug\net6.0\refint\Assihnment2.dll
+E:\Promact\c#\Assihnment2\obj\Debug\net6.0\Assihnment2.pdb
+E:\Promact\c#\Assihnment2\obj\Debug\net6.0\Assihnment2.genruntimeconfig.cache
+E:\Promact\c#\Assihnment2\obj\Debug\net6.0\ref\Assihnment2.dll
